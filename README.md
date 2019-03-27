@@ -17,15 +17,19 @@ Technical constraints:
 
 ## Game map
 █ - uncharted terrain
+
 ░ - empty field
+
 P - player position
+
 W - wolf position (enemy)
+
 Gained experience is displayed above the game map
 
 ## Controls
-After starting the game type NEW_GAME<enter>. The game starts after creating the character. Type R<enter> to move right and L<enter>, to move left.
-FR<enter> allows to fight with the enemy on the right, FL<enter> - fight the enemy on the left.
-To save the game type SAVE_GAME<enter>. Type RESUME_GAME<enter> to start previously saved game.
+After starting the game type NEW_GAME(enter). The game starts after creating the character. Type R(enter) to move right and L(enter), to move left.
+FR(enter) allows to fight with the enemy on the right, FL(enter) - fight the enemy on the left.
+To save the game type SAVE_GAME(enter). Type RESUME_GAME(enter) to start previously saved game.
 
 ## End game conditions
 The game ends when the player discovers the whole map.
